@@ -1,0 +1,1 @@
+NostrVanity: Generate Your Own Nostr Vanity Address
